@@ -1,0 +1,5 @@
+[
+  { "task": "fry",      "genericName": "deep-fryer" },
+  { "task": "espresso", "genericName": "espresso" },
+  { "task": "bake",     "genericName": "oven" }
+]

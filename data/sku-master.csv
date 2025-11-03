@@ -1,0 +1,7 @@
+genericName,makeModel,tier,usd,refurbished,nsf,footprintM2,electricAmps,gasBTU,affiliateLink
+deep-fryer,Home Fryer X,home,99,false,false,0.2,12,0,https://amazon.com/dp/homefryer
+deep-fryer,Pro Fryer Y,pro,899,true,true,0.6,2,120000,https://webstaurant.com/profryer
+espresso,Home Espresso,home,249,false,false,0.15,10,0,https://amazon.com/dp/homeespresso
+espresso,Pro Espresso,pro,3999,false,true,0.5,25,0,https://webstaurant.com/proespresso
+oven,Home Oven,home,199,false,false,0.3,15,0,https://amazon.com/dp/homeoven
+oven,Pro Oven,pro,2999,true,true,0.9,3,80000,https://webstaurant.com/proven
